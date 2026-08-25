@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "juego del calamar grupo de julio/1.0.0": {
+        "runtime": {
+          "juego del calamar grupo de julio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "juego del calamar grupo de julio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

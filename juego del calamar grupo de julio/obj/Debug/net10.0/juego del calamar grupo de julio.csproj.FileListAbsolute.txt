@@ -1,0 +1,15 @@
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\bin\Debug\net10.0\juego del calamar grupo de julio.exe
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\bin\Debug\net10.0\juego del calamar grupo de julio.deps.json
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\bin\Debug\net10.0\juego del calamar grupo de julio.runtimeconfig.json
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\bin\Debug\net10.0\juego del calamar grupo de julio.dll
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\bin\Debug\net10.0\juego del calamar grupo de julio.pdb
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.AssemblyInfoInputs.cache
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.AssemblyInfo.cs
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.sourcelink.json
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.dll
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\refint\juego del calamar grupo de julio.dll
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.pdb
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\juego del calamar grupo de julio.genruntimeconfig.cache
+C:\Users\HP VICTUS\OneDrive\programacion\juego del calamar grupo julio\juego del calamar grupo de julio\obj\Debug\net10.0\ref\juego del calamar grupo de julio.dll
